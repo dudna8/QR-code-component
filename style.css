@@ -1,0 +1,38 @@
+body {
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Space Mono', monospace;
+    color: rgb(0, 0, 63);
+    background-color: hsl(212, 45%, 89%);
+    }
+.attribution { 
+    font-size: 11px; 
+    text-align: center;
+    }
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+    }
+.card {
+    background-color: whitesmoke;
+    width: 300px;
+    margin: 200px auto;
+    padding: 15px;
+    padding-bottom: 50px;
+    border-radius: 5%;
+    }
+.qr {
+    max-width: 300px;
+    border-radius: 5%;
+    }
+.thebold { 
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+    color: hsl(218, 44%, 22%);
+    padding: 10px 0 10px;
+    }
+.text { 
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+    color: hsl(220, 15%, 55%);
+    }
